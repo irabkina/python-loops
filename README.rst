@@ -12,7 +12,9 @@ Cards
 .. image:: https://readthedocs.org/projects/cards/badge/?version=latest
         :target: https://cards.readthedocs.io/en/latest/?badge=latest
         :alt: Documentation Status
-
+        
+.. image:: https://mybinder.org/badge_logo.svg
+       :target: https://mybinder.org/v2/gh/irabkina/python-loops/master?filepath=cards.ipynb
 
 
 
